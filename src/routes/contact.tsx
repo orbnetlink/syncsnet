@@ -166,6 +166,3 @@ function ContactPage() {
     </Layout>
   );
 }
-
-
-

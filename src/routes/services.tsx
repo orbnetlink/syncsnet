@@ -139,6 +139,3 @@ function ServicesPage() {
     </Layout>
   );
 }
-
-
-

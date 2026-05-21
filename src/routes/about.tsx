@@ -176,6 +176,3 @@ function AboutPage() {
     </Layout>
   );
 }
-
-
-

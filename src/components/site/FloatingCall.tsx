@@ -17,6 +17,3 @@ export function FloatingCall() {
     </a>
   );
 }
-
-
-

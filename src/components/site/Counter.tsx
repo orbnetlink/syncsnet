@@ -43,6 +43,3 @@ export function Counter({
     </span>
   );
 }
-
-
-

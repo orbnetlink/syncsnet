@@ -108,7 +108,10 @@ export function Footer() {
 
         <div className="mt-12 pt-8 border-t border-border/50 flex flex-col sm:flex-row justify-between gap-3 text-xs text-muted-foreground">
           <p>© {new Date().getFullYear()} Syncsnet Communications. All rights reserved.</p>
-          <p>Syncsnet is an independent third-party service assistance provider. All trademarks belong to their respective owners.</p>
+          <p>
+            Syncsnet is an independent third-party service assistance provider. All trademarks
+            belong to their respective owners.
+          </p>
         </div>
       </div>
     </footer>

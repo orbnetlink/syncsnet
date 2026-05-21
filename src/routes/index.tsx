@@ -64,7 +64,8 @@ function HomePage() {
       <Testimonials />
       <FinalCTA />
       <div className="text-center text-[10px] text-muted-foreground p-4 bg-secondary/5">
-        Syncsnet is an independent third-party service assistance provider. We are not affiliated with, authorized by, or endorsed by any internet, cable, or telecom service provider.
+        Syncsnet is an independent third-party service assistance provider. We are not affiliated
+        with, authorized by, or endorsed by any internet, cable, or telecom service provider.
       </div>
     </Layout>
   );

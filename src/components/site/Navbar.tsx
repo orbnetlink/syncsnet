@@ -65,11 +65,11 @@ export function Navbar() {
 
           <div className="flex items-center gap-2">
             <a
-              href="tel:+18882108563"
+              href="tel:+18887659560"
               className="hidden sm:inline-flex items-center gap-2 rounded-xl bg-gradient-neon px-4 py-2.5 text-sm font-semibold text-primary-foreground shadow-glow hover:shadow-glow-accent transition-all hover:scale-105"
             >
               <Phone className="h-4 w-4" />
-              (888) 210-8563
+              (888) 765-9560
             </a>
             <button
               onClick={() => setOpen(!open)}
@@ -93,10 +93,10 @@ export function Navbar() {
               </Link>
             ))}
             <a
-              href="tel:+18882108563"
+              href="tel:+18887659560"
               className="mt-2 flex items-center justify-center gap-2 rounded-xl bg-gradient-neon px-4 py-3 text-sm font-semibold text-primary-foreground"
             >
-              <Phone className="h-4 w-4" /> Call (888) 210-8563
+              <Phone className="h-4 w-4" /> Call (888) 765-9560
             </a>
           </div>
         )}

@@ -7,7 +7,7 @@ import { useState } from "react";
 export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
-      { title: "Contact Syncsnet — Call (888) 210-8563" },
+      { title: "Contact Syncsnet — Call (888) 765-9560" },
       {
         name: "description",
         content:
@@ -117,7 +117,7 @@ function ContactPage() {
               </Reveal>
 
               {[
-                { i: Phone, t: "Call us", v: "(888) 210-8563", href: "tel:+18882108563" },
+                { i: Phone, t: "Call us", v: "(888) 765-9560", href: "tel:+18887659560" },
                 { i: Mail, t: "Email", v: "hello@syncsnet.com", href: "mailto:hello@syncsnet.com" },
                 { i: Clock, t: "Hours", v: "24/7 — always on" },
                 { i: MapPin, t: "Coverage", v: "Nationwide — 40+ states" },

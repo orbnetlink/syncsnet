@@ -131,17 +131,17 @@ function Hero() {
               className="mt-8 flex flex-wrap gap-3"
             >
               <a
-                href="tel:+18882108563"
+                href="tel:+18887659560"
                 className="group inline-flex items-center gap-2 rounded-2xl bg-gradient-neon px-6 py-3.5 text-sm font-semibold text-primary-foreground shadow-glow hover:shadow-glow-accent transition-all hover:scale-[1.03]"
               >
                 Get Connected{" "}
                 <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
               </a>
               <a
-                href="tel:+18882108563"
+                href="tel:+18887659560"
                 className="inline-flex items-center gap-2 rounded-2xl glass-strong px-6 py-3.5 text-sm font-semibold hover:bg-secondary/80 transition-all"
               >
-                <Phone className="h-4 w-4 text-primary" /> (888) 210-8563
+                <Phone className="h-4 w-4 text-primary" /> (888) 765-9560
               </a>
             </motion.div>
 
@@ -652,13 +652,13 @@ function FinalCTA() {
 
               <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
                 <a
-                  href="tel:+18882108563"
+                  href="tel:+18887659560"
                   className="w-full sm:w-auto inline-flex items-center justify-center gap-3 rounded-2xl bg-gradient-neon px-8 py-4 text-base font-bold text-primary-foreground shadow-glow hover:scale-105 transition-all"
                 >
-                  <Phone className="h-5 w-5" /> (888) 210-8563
+                  <Phone className="h-5 w-5" /> (888) 765-9560
                 </a>
                 <a
-                  href="tel:+18882108563"
+                  href="tel:+18887659560"
                   className="w-full sm:w-auto inline-flex items-center justify-center gap-3 rounded-2xl glass px-8 py-4 text-base font-bold hover:bg-secondary transition-all"
                 >
                   Get Started Now <ArrowRight className="h-5 w-5" />

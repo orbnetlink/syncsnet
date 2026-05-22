@@ -124,7 +124,7 @@ function ServicesPage() {
                       ))}
                     </ul>
                     <a
-                      href="tel:+18882108563"
+                      href="tel:+18887659560"
                       className="mt-8 inline-flex items-center gap-2 rounded-2xl bg-gradient-neon px-5 py-3 text-sm font-semibold text-primary-foreground shadow-glow hover:scale-[1.03] transition-all"
                     >
                       Get {s.t} <ArrowRight className="h-4 w-4" />

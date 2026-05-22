@@ -47,7 +47,7 @@ const sections = [
   },
   {
     t: "Contact",
-    b: "Questions about these terms? Email hello@syncsnet.com or call (888) 210-8563.",
+    b: "Questions about these terms? Email hello@syncsnet.com or call (888) 765-9560.",
   },
 ];
 
